@@ -2,6 +2,9 @@
 
 ### Scrapes [gearsofwar.com](https://gearsofwar.com/en-us/cards) for any upcoming cards data, new characters & packs.
 
+
+![cardspage](https://github.com/TheanosLearning/gears4_cardspage_scraper/raw/master/images/cardspage.png)
+
 View the data I have scraped in the [data](https://github.com/TheanosLearning/gears4_cardspage_scraper/tree/master/data) folder:
 
 * [initialState.json](https://github.com/TheanosLearning/gears4_cardspage_scraper/blob/master/data/initialState.json)
