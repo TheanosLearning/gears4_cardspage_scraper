@@ -1,4 +1,4 @@
-# gears4_cardpage_scraper
+# gears4_cardspage_scraper
 
 ### Scrapes [gearsofwar.com](https://gearsofwar.com/en-us/cards) for any upcoming cards data, new characters & packs.
 
@@ -13,7 +13,7 @@ Or run the project yourself:
 
 Assuming you have [python](https://www.python.org/) and [anaconda](https://www.continuum.io/downloads) installed
 
-1. Create a new environment ```conda create --name scrapy```
+1. Create a new environment for running Scrapy ```conda create --name scrapy```
 
 2. Switch to it ```source activate scrapy```
 
@@ -29,3 +29,5 @@ Assuming you have [python](https://www.python.org/) and [anaconda](https://www.c
 7. Execture the script to crawl & scrape the page ```scrapy crawl cardspage```
 
 8. ```text.json``` & ```initialState.json``` will be written to your ```/data``` folder
+
+9. Search the data for any new or upcoming content!
