@@ -2,7 +2,7 @@
 
 ### Scrapes gearsofwar.com for any upcoming cards data, new characters & packs.
 
-View the data I have scraped in the /data folder:
+View the data I have scraped in the [data](https://github.com/TheanosLearning/gears4_cardspage_scraper/tree/master/data) folder:
 
 * [initialState](https://github.com/TheanosLearning/gears4_cardspage_scraper/blob/master/data/initialState.json)
 * [text](https://github.com/TheanosLearning/gears4_cardspage_scraper/blob/master/data/text.json)
@@ -25,6 +25,6 @@ Assuming you have [python](https://www.python.org/) and [anaconda](https://www.c
 
 6. Create a ```data``` directory in project root ```mkdir data```
 
-7. Execture the script to scrape the page ```scrapy crawl cardspage```
+7. Execture the script to crawl & scrape the page ```scrapy crawl cardspage```
 
 8. ```text.json``` & ```initialState.json``` will be written to your ```/data``` folder
