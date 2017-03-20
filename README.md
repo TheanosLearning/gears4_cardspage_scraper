@@ -1,11 +1,11 @@
 # gears4_cardpage_scraper
 
-### Scrapes gearsofwar.com for any upcoming cards data, new characters & packs.
+### Scrapes [gearsofwar.com](https://gearsofwar.com/en-us/cards) for any upcoming cards data, new characters & packs.
 
 View the data I have scraped in the [data](https://github.com/TheanosLearning/gears4_cardspage_scraper/tree/master/data) folder:
 
-* [initialState](https://github.com/TheanosLearning/gears4_cardspage_scraper/blob/master/data/initialState.json)
-* [text](https://github.com/TheanosLearning/gears4_cardspage_scraper/blob/master/data/text.json)
+* [initialState.json](https://github.com/TheanosLearning/gears4_cardspage_scraper/blob/master/data/initialState.json)
+* [text.json](https://github.com/TheanosLearning/gears4_cardspage_scraper/blob/master/data/text.json)
 
 > Data will be updated every week or upon request.
 
