@@ -22,6 +22,7 @@ Assuming you have [python](https://www.python.org/) and [anaconda](https://www.c
 4. Create a new Scrapy project ```scrapy startproject gears4_cardspage_scraper```
 
 5. Copy the contents of ```cardspage_spider.py``` and place it in the ```/spiders``` directory
+    or simply ```git clone``` this repository
 
 6. Create a ```data``` directory in project root ```mkdir data```
 
