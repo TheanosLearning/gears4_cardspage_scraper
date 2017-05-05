@@ -33,6 +33,7 @@
                         "PurchaseButtonText": "Single Pack",
                         "Preview": null,
                         "MarketPlaceLink": "https://www.microsoft.com/en-us/store/p/operations-pack/9NBLGGH4SWWL",
+                        "TopperIndex": null,
                         "CreditPurchaseLink": "/en-us/cards/api/Store/Pack/OperationsPack"
                     },
                     {
@@ -53,6 +54,7 @@
                         "PurchaseButtonText": "Stack (5 Packs)",
                         "Preview": null,
                         "MarketPlaceLink": "https://www.microsoft.com/en-us/store/p/operations-stack/9NBLGGH4SWX3",
+                        "TopperIndex": null,
                         "CreditPurchaseLink": "/en-us/cards/api/Store/Bundle/OperationsPack5x"
                     },
                     {
@@ -73,18 +75,21 @@
                         "PurchaseButtonText": "Stockpile (15 Packs)",
                         "Preview": null,
                         "MarketPlaceLink": "https://www.microsoft.com/en-us/store/p/operations-stockpile/9NBLGGH4SWV4",
+                        "TopperIndex": null,
                         "CreditPurchaseLink": "/en-us/cards/api/Store/Bundle/OperationsPack20x"
                     }
                 ],
                 "Name": "OperationsPack",
                 "StoreTab": "core",
+                "TopperIndex": null,
                 "BadgeName": null,
                 "DisplayName": "Operations Pack",
                 "Description": "Contains five random cards including Bounties, Horde Skills and two guaranteed customization cards. Now with series 2 content!",
                 "StoreImageUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/OperationsPack/OperationsPack-store.png",
                 "TopDownUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/OperationsPack/OperationsPack-top.png",
                 "StoreBadges": null,
-                "Preview": null
+                "Preview": null,
+                "TabIndex": null
             },
             {
                 "Items": [
@@ -106,6 +111,7 @@
                         "PurchaseButtonText": "Single Booster",
                         "Preview": null,
                         "MarketPlaceLink": "https://www.microsoft.com/en-us/store/p/horde-booster/9nblggh4swwz",
+                        "TopperIndex": null,
                         "CreditPurchaseLink": "/en-us/cards/api/Store/Pack/HordeBooster"
                     },
                     {
@@ -126,6 +132,7 @@
                         "PurchaseButtonText": "Stack (5 Boosters)",
                         "Preview": null,
                         "MarketPlaceLink": "https://www.microsoft.com/en-us/store/p/horde-stack/9NBLGGH4SWWX",
+                        "TopperIndex": null,
                         "CreditPurchaseLink": "/en-us/cards/api/Store/Bundle/HordePack5x"
                     },
                     {
@@ -146,18 +153,21 @@
                         "PurchaseButtonText": "Stockpile (15 Boosters)",
                         "Preview": null,
                         "MarketPlaceLink": "https://www.microsoft.com/en-us/store/p/horde-stockpile/9NBLGGH4SWTF",
+                        "TopperIndex": null,
                         "CreditPurchaseLink": "/en-us/cards/api/Store/Bundle/HordePack20x"
                     }
                 ],
                 "Name": "HordeBooster",
                 "StoreTab": "core",
+                "TopperIndex": null,
                 "BadgeName": null,
                 "DisplayName": "Horde Booster",
                 "Description": "Contains at least three random Horde Skills, a chance at a Horde Bounty and one guaranteed customization card! Now with series 2 content!",
                 "StoreImageUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/HordeBooster/HordeBooster-store.png",
                 "TopDownUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/HordeBooster/HordeBooster-top.png",
                 "StoreBadges": null,
-                "Preview": null
+                "Preview": null,
+                "TabIndex": null
             },
             {
                 "Items": [
@@ -179,6 +189,7 @@
                         "PurchaseButtonText": "Single Booster",
                         "Preview": null,
                         "MarketPlaceLink": "https://www.microsoft.com/en-us/store/p/versus-booster/9NBLGGH4SX2V",
+                        "TopperIndex": null,
                         "CreditPurchaseLink": "/en-us/cards/api/Store/Pack/VersusBooster"
                     },
                     {
@@ -199,6 +210,7 @@
                         "PurchaseButtonText": "Stack (5 Boosters)",
                         "Preview": null,
                         "MarketPlaceLink": "https://www.microsoft.com/en-us/store/p/versus-stack/9NBLGGH4SWT7",
+                        "TopperIndex": null,
                         "CreditPurchaseLink": "/en-us/cards/api/Store/Bundle/VersusPack5x"
                     },
                     {
@@ -219,18 +231,21 @@
                         "PurchaseButtonText": "Stockpile (15 Boosters)",
                         "Preview": null,
                         "MarketPlaceLink": "https://www.microsoft.com/en-us/store/p/versus-stockpile/9NBLGGH4SX1T",
+                        "TopperIndex": null,
                         "CreditPurchaseLink": "/en-us/cards/api/Store/Bundle/VersusPack20x"
                     }
                 ],
                 "Name": "VersusBooster",
                 "StoreTab": "core",
+                "TopperIndex": null,
                 "BadgeName": null,
                 "DisplayName": "Versus Booster",
                 "Description": " Contains 4 Versus Bounty cards and one guaranteed customization card! Now with series 2 content!",
                 "StoreImageUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/VersusBooster/VersusBooster-store.png",
                 "TopDownUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/VersusBooster/VersusBooster-top.png",
                 "StoreBadges": null,
-                "Preview": null
+                "Preview": null,
+                "TabIndex": null
             },
             {
                 "Items": [
@@ -252,6 +267,7 @@
                         "PurchaseButtonText": "Single Pack",
                         "Preview": null,
                         "MarketPlaceLink": "https://www.microsoft.com/en-us/store/p/elite-pack/9NBLGGH4SX99",
+                        "TopperIndex": null,
                         "CreditPurchaseLink": "/en-us/cards/api/Store/Pack/ElitePack"
                     },
                     {
@@ -272,18 +288,115 @@
                         "PurchaseButtonText": "Stack (5 Packs)",
                         "Preview": null,
                         "MarketPlaceLink": "https://www.microsoft.com/en-us/store/p/elite-stack/9NBLGGH4X7MH",
+                        "TopperIndex": null,
                         "CreditPurchaseLink": "/en-us/cards/api/Store/Bundle/ElitePack5x"
                     }
                 ],
                 "Name": "ElitePack",
                 "StoreTab": "core",
+                "TopperIndex": null,
                 "BadgeName": null,
                 "DisplayName": "Elite Pack",
                 "Description": "Contains five random customization cards with one guaranteed epic or better item and a greater chance of a legendary. Now with series 2 content!",
                 "StoreImageUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/ElitePack/ElitePack-store.png",
                 "TopDownUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/ElitePack/ElitePack-top.png",
                 "StoreBadges": null,
-                "Preview": null
+                "Preview": null,
+                "TabIndex": null
+            },
+            {
+                "Items": [
+                    {
+                        "Category": "Pack",
+                        "Id": "5070ac3d-1d1a-42ec-9be3-f426b2a3b676",
+                        "DisplayName": "eSports Supporter 4",
+                        "StoreTab": null,
+                        "StoreBadges": null,
+                        "Name": "EsportsPack04",
+                        "Description": "Support Gears eSports with this exclusive pack, available for a limited time! Contains 3 Gears eSports cards, one guaranteed to be epic, plus 2 more customization cards or a bounty.",
+                        "StoreImageUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/EsportsPack04/EsportsPack04-store.png",
+                        "TopDownUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/EsportsPack04/EsportsPack04-top.png",
+                        "CreditPrice": 0,
+                        "MarketplaceProductId": "6c97353c-9a46-4b28-a5ca-56fff2623282",
+                        "DisplayPrice": null,
+                        "DisplayCurrency": null,
+                        "PriceTagName": "1 Pack",
+                        "PurchaseButtonText": "eSports Supporter 4",
+                        "Preview": null,
+                        "MarketPlaceLink": "https://www.microsoft.com/en-us/store/p/esports-pack-4/9NBLGGH4T9DJ",
+                        "TopperIndex": "",
+                        "CreditPurchaseLink": "/en-us/cards/api/Store/Pack/EsportsPack04"
+                    },
+                    {
+                        "Category": "Bundle",
+                        "Id": "ded706ca-f8b3-480a-bfa9-45f3dc1dc2b9",
+                        "DisplayName": "eSports Supporter 4",
+                        "StoreTab": "esports",
+                        "StoreBadges": null,
+                        "Name": "eSportsSupporter4x10",
+                        "Description": "Includes 10 Packs at a discount! Each pack contains 3 Gears eSports cards, one guaranteed to be epic, plus 2 more customization cards or a bounty.",
+                        "StoreImageUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/eSportsSupporter4x10/eSportsSupporter4x10-store.png",
+                        "TopDownUrl": null,
+                        "CreditPrice": 0,
+                        "MarketplaceProductId": "d31b1b3b-fddf-44fb-b53b-5955a58aa831",
+                        "DisplayPrice": null,
+                        "DisplayCurrency": null,
+                        "PriceTagName": "10 Packs",
+                        "PurchaseButtonText": "Bundle (10 Packs)",
+                        "Preview": null,
+                        "MarketPlaceLink": "https://www.microsoft.com/en-us/store/p/esports-pack-4-x10/9N43VXBB54W5",
+                        "TopperIndex": null,
+                        "CreditPurchaseLink": "/en-us/cards/api/Store/Bundle/eSportsSupporter4x10"
+                    },
+                    {
+                        "Category": "Bundle",
+                        "Id": "739295e9-ddd1-4071-bd00-7e2c71494b89",
+                        "DisplayName": "eSports Supporter 4",
+                        "StoreTab": "esports",
+                        "StoreBadges": null,
+                        "Name": "eSportsSupporter4x5",
+                        "Description": "Includes 5 Packs at a discount! Each pack contains 3 Gears eSports cards, one guaranteed to be epic, plus 2 more customization cards or a bounty.",
+                        "StoreImageUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/eSportsSupporter4x5/eSportsSupporter4x5-store.png",
+                        "TopDownUrl": null,
+                        "CreditPrice": 0,
+                        "MarketplaceProductId": "3b9ba4f6-b99a-4de5-9cd6-94ddfb57115e",
+                        "DisplayPrice": null,
+                        "DisplayCurrency": null,
+                        "PriceTagName": "5 Packs",
+                        "PurchaseButtonText": "Bundle (5 Packs)",
+                        "Preview": null,
+                        "MarketPlaceLink": "https://www.microsoft.com/en-us/store/p/esports-pack-4-x5/9NJLG9G1RSP9",
+                        "TopperIndex": null,
+                        "CreditPurchaseLink": "/en-us/cards/api/Store/Bundle/eSportsSupporter4x5"
+                    }
+                ],
+                "Name": "EsportsPack04",
+                "StoreTab": "esports",
+                "TopperIndex": "",
+                "BadgeName": null,
+                "DisplayName": "eSports Supporter 4",
+                "Description": "Support Gears eSports with this exclusive pack, available for a limited time! Contains 3 Gears eSports cards, one guaranteed to be epic, plus 2 more customization cards or a bounty.",
+                "StoreImageUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/EsportsPack04/EsportsPack04-store.png",
+                "TopDownUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/EsportsPack04/EsportsPack04-top.png",
+                "StoreBadges": null,
+                "Preview": [
+                    {
+                        "Name": "test name",
+                        "DisplayText": {
+                            "OverlayTitle": "eSports Supporter 4",
+                            "Title": "eSports Supporter 4",
+                            "Body": "Continue your Black Steel Characters in our latest eSports Supporter Pack, including Black Steel Locust and more!\n\nThis Pack also contains a brand new Weapon Skin set to take into battle:  'Assembly'.\n\nCHARACTERS\nBlack Steel Dizzy\u00a0\nBlack Steel Sam\u00a0\nBlack Steel Tai Kaliso\u00a0\nBlack Steel Locust Drone\u00a0\nBlack Steel Locust Grenadier\n\nWEAPON SKINS\nAssembly\n\nEMBLEM\nAssembly ",
+                            "Signature": "The Coalition",
+                            "ActionLabel": ""
+                        },
+                        "ImageUrl": "http://compass.xboxlive.com/assets/ed/dc/eddc71cc-c364-42c3-ba41-33a53c49ca11.jpg?n=PackPreview_SupporterPack_04.jpg%202",
+                        "AlwaysShow": true,
+                        "PostedTime": "2016-10-25 15:22:24Z",
+                        "Priority": 1,
+                        "ActionUri": ""
+                    }
+                ],
+                "TabIndex": null
             },
             {
                 "Items": [
@@ -305,18 +418,21 @@
                         "PurchaseButtonText": "OpTic Supporter",
                         "Preview": null,
                         "MarketPlaceLink": "https://www.microsoft.com/en-us/store/p/optic-gaming-supporter/9nblggh42swx",
+                        "TopperIndex": null,
                         "CreditPurchaseLink": "/en-us/cards/api/Store/Pack/OpTicGamingSupporterPack"
                     }
                 ],
                 "Name": "OpTicGamingSupporterPack",
                 "StoreTab": "esports",
+                "TopperIndex": null,
                 "BadgeName": null,
                 "DisplayName": "OpTic Supporter",
                 "Description": "Support OpTic Gaming and Gears eSports with this exclusive OpTic team weapon skin. A portion of the proceeds from every pack sold will go to support OpTic Gaming and Gears eSports.",
                 "StoreImageUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/OpTicGamingSupporterPack/OpTicGamingSupporterPack-store.png",
                 "TopDownUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/OpTicGamingSupporterPack/OpTicGamingSupporterPack-top.png",
                 "StoreBadges": null,
-                "Preview": null
+                "Preview": null,
+                "TabIndex": null
             },
             {
                 "Items": [
@@ -338,18 +454,21 @@
                         "PurchaseButtonText": "Vitality Supporter",
                         "Preview": null,
                         "MarketPlaceLink": "https://www.microsoft.com/en-us/store/p/vitality-supporter/9nblggh42gm1",
+                        "TopperIndex": null,
                         "CreditPurchaseLink": "/en-us/cards/api/Store/Pack/VitalitySupporterPack"
                     }
                 ],
                 "Name": "VitalitySupporterPack",
                 "StoreTab": "esports",
+                "TopperIndex": null,
                 "BadgeName": null,
                 "DisplayName": "Vitality Supporter",
                 "Description": "Support Vitality and Gears eSports with this exclusive Vitality team weapon skin. A portion of the proceeds from every pack sold will go to support Vitality and Gears eSports.",
                 "StoreImageUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/VitalitySupporterPack/VitalitySupporterPack-store.png",
                 "TopDownUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/VitalitySupporterPack/VitalitySupporterPack-top.png",
                 "StoreBadges": null,
-                "Preview": null
+                "Preview": null,
+                "TabIndex": null
             },
             {
                 "Items": [
@@ -371,18 +490,21 @@
                         "PurchaseButtonText": "EnVyUs Supporter",
                         "Preview": null,
                         "MarketPlaceLink": "https://www.microsoft.com/en-us/store/p/envyus-supporter/9nblggh42svw",
+                        "TopperIndex": null,
                         "CreditPurchaseLink": "/en-us/cards/api/Store/Pack/EnVyUsSupporterPack"
                     }
                 ],
                 "Name": "EnVyUsSupporterPack",
                 "StoreTab": "esports",
+                "TopperIndex": null,
                 "BadgeName": null,
                 "DisplayName": "EnVyUs Supporter",
                 "Description": "Support Team EnVyUs and Gears eSports with this exclusive EnvyUs team weapon skin. A portion of the proceeds from every pack sold will go to support Team EnVyUs and Gears eSports.",
                 "StoreImageUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/EnVyUsSupporterPack/EnVyUsSupporterPack-store.png",
                 "TopDownUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/EnVyUsSupporterPack/EnVyUsSupporterPack-top.png",
                 "StoreBadges": null,
-                "Preview": null
+                "Preview": null,
+                "TabIndex": null
             },
             {
                 "Items": [
@@ -404,18 +526,21 @@
                         "PurchaseButtonText": "Epsilon Supporter",
                         "Preview": null,
                         "MarketPlaceLink": "https://www.microsoft.com/en-us/store/p/epsilon-supporter/9nblggh42svv",
+                        "TopperIndex": null,
                         "CreditPurchaseLink": "/en-us/cards/api/Store/Pack/EpsilonSupporterPack"
                     }
                 ],
                 "Name": "EpsilonSupporterPack",
                 "StoreTab": "esports",
+                "TopperIndex": null,
                 "BadgeName": null,
                 "DisplayName": "Epsilon Supporter",
                 "Description": "Support Team Epsilon and Gears eSports with this exclusive Epsilon team weapon skin. A portion of the proceeds from every pack sold will go to support Team Epsilon and Gears eSports.",
                 "StoreImageUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/EpsilonSupporterPack/EpsilonSupporterPack-store.png",
                 "TopDownUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/EpsilonSupporterPack/EpsilonSupporterPack-top.png",
                 "StoreBadges": null,
-                "Preview": null
+                "Preview": null,
+                "TabIndex": null
             },
             {
                 "Items": [
@@ -437,18 +562,21 @@
                         "PurchaseButtonText": "Splyce Supporter",
                         "Preview": null,
                         "MarketPlaceLink": "https://www.microsoft.com/en-us/store/p/splyce-supporter/9nblggh42svt",
+                        "TopperIndex": null,
                         "CreditPurchaseLink": "/en-us/cards/api/Store/Pack/SplyceSupporterPack"
                     }
                 ],
                 "Name": "SplyceSupporterPack",
                 "StoreTab": "esports",
+                "TopperIndex": null,
                 "BadgeName": null,
                 "DisplayName": "Splyce Supporter",
                 "Description": "Support Splyce and Gears eSports with this exclusive Splyce team weapon skin. A portion of the proceeds from every pack sold will go to support Splyce and Gears eSports.",
                 "StoreImageUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/SplyceSupporterPack/SplyceSupporterPack-store.png",
                 "TopDownUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/SplyceSupporterPack/SplyceSupporterPack-top.png",
                 "StoreBadges": null,
-                "Preview": null
+                "Preview": null,
+                "TabIndex": null
             },
             {
                 "Items": [
@@ -470,51 +598,21 @@
                         "PurchaseButtonText": "Mindfreak Supporter",
                         "Preview": null,
                         "MarketPlaceLink": "https://www.microsoft.com/en-us/store/p/mindfreak-supporter/9nblggh42gm0",
+                        "TopperIndex": null,
                         "CreditPurchaseLink": "/en-us/cards/api/Store/Pack/MindfreakSupporterPack"
                     }
                 ],
                 "Name": "MindfreakSupporterPack",
                 "StoreTab": "esports",
+                "TopperIndex": null,
                 "BadgeName": null,
                 "DisplayName": "Mindfreak Supporter",
                 "Description": "Support Mindfreak and Gears eSports with this exclusive Mindfreak team weapon skin. A portion of the proceeds from every pack sold will go to support Mindfreak and Gears eSports.",
                 "StoreImageUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/MindfreakSupporterPack/MindfreakSupporterPack-store.png",
                 "TopDownUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/MindfreakSupporterPack/MindfreakSupporterPack-top.png",
                 "StoreBadges": null,
-                "Preview": null
-            },
-            {
-                "Items": [
-                    {
-                        "Category": "Pack",
-                        "Id": "29192908-e4c7-4c63-b02d-ccb86aeb71de",
-                        "DisplayName": "NRG Supporter",
-                        "StoreTab": null,
-                        "StoreBadges": null,
-                        "Name": "NRGSupporterPack",
-                        "Description": "Support NRG and Gears eSports with this exclusive NRG team weapon skin. A portion of the proceeds from every pack sold will go to support NRG and Gears eSports.",
-                        "StoreImageUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/NRGSupporterPack/NRGSupporterPack-store.png",
-                        "TopDownUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/NRGSupporterPack/NRGSupporterPack-top.png",
-                        "CreditPrice": 0,
-                        "MarketplaceProductId": "43595b6f-f8a6-4915-a375-d48cd48ee8d5",
-                        "DisplayPrice": null,
-                        "DisplayCurrency": null,
-                        "PriceTagName": "1 Pack",
-                        "PurchaseButtonText": "NRG Supporter",
-                        "Preview": null,
-                        "MarketPlaceLink": "https://www.microsoft.com/en-us/store/p/nrg-supporter/9nblggh42glz",
-                        "CreditPurchaseLink": "/en-us/cards/api/Store/Pack/NRGSupporterPack"
-                    }
-                ],
-                "Name": "NRGSupporterPack",
-                "StoreTab": "esports",
-                "BadgeName": null,
-                "DisplayName": "NRG Supporter",
-                "Description": "Support NRG and Gears eSports with this exclusive NRG team weapon skin. A portion of the proceeds from every pack sold will go to support NRG and Gears eSports.",
-                "StoreImageUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/NRGSupporterPack/NRGSupporterPack-store.png",
-                "TopDownUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/NRGSupporterPack/NRGSupporterPack-top.png",
-                "StoreBadges": null,
-                "Preview": null
+                "Preview": null,
+                "TabIndex": null
             },
             {
                 "Items": [
@@ -536,18 +634,202 @@
                         "PurchaseButtonText": "Enigma6 Supporter",
                         "Preview": null,
                         "MarketPlaceLink": "https://www.microsoft.com/en-us/store/p/enigma-6-supporter/9nblggh42glx",
+                        "TopperIndex": null,
                         "CreditPurchaseLink": "/en-us/cards/api/Store/Pack/Enigma6SupporterPack"
                     }
                 ],
                 "Name": "Enigma6SupporterPack",
                 "StoreTab": "esports",
+                "TopperIndex": null,
                 "BadgeName": null,
                 "DisplayName": "Enigma6 Supporter",
                 "Description": "Support Enigma6 and Gears eSports with this exclusive E6 team weapon skin. A portion of the proceeds from every pack sold will go to support Enigma6 and Gears eSports.",
                 "StoreImageUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/Enigma6SupporterPack/Enigma6SupporterPack-store.png",
                 "TopDownUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/Enigma6SupporterPack/Enigma6SupporterPack-top.png",
                 "StoreBadges": null,
-                "Preview": null
+                "Preview": null,
+                "TabIndex": null
+            },
+            {
+                "Items": [
+                    {
+                        "Category": "Pack",
+                        "Id": "d1be3b74-141d-49c9-b878-454a5665102a",
+                        "DisplayName": "eUnited Supporter",
+                        "StoreTab": null,
+                        "StoreBadges": null,
+                        "Name": "eUnitedTeamPack",
+                        "Description": "Support eUnited and Gears eSports with this exclusive eUnited team weapon skin. A portion of the proceeds from every pack sold will go to support eUnited and Gears eSports.",
+                        "StoreImageUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/eUnitedTeamPack/eUnitedTeamPack-store.png",
+                        "TopDownUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/eUnitedTeamPack/eUnitedTeamPack-top.png",
+                        "CreditPrice": 0,
+                        "MarketplaceProductId": "fbd7bbf3-641e-44dc-a8f3-d1b4c9c0472a",
+                        "DisplayPrice": null,
+                        "DisplayCurrency": null,
+                        "PriceTagName": "1 Pack",
+                        "PurchaseButtonText": "eUnited Supporter",
+                        "Preview": null,
+                        "MarketPlaceLink": "https://www.microsoft.com/en-us/store/p/eunited-team/9PKQRXNVV44R",
+                        "TopperIndex": "",
+                        "CreditPurchaseLink": "/en-us/cards/api/Store/Pack/eUnitedTeamPack"
+                    }
+                ],
+                "Name": "eUnitedTeamPack",
+                "StoreTab": "esports",
+                "TopperIndex": "",
+                "BadgeName": null,
+                "DisplayName": "eUnited Supporter",
+                "Description": "Support eUnited and Gears eSports with this exclusive eUnited team weapon skin. A portion of the proceeds from every pack sold will go to support eUnited and Gears eSports.",
+                "StoreImageUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/eUnitedTeamPack/eUnitedTeamPack-store.png",
+                "TopDownUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/eUnitedTeamPack/eUnitedTeamPack-top.png",
+                "StoreBadges": null,
+                "Preview": null,
+                "TabIndex": null
+            },
+            {
+                "Items": [
+                    {
+                        "Category": "Pack",
+                        "Id": "7915a672-1705-40a6-8b9a-b023a7c8a7ce",
+                        "DisplayName": "Allegiance Supporter",
+                        "StoreTab": null,
+                        "StoreBadges": null,
+                        "Name": "AllegianceTeamPack",
+                        "Description": "Support Allegiance and Gears eSports with this exclusive Allegiance team weapon skin. A portion of the proceeds from every pack sold will go to support Allegiance and Gears eSports.",
+                        "StoreImageUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/AllegianceTeamPack/AllegianceTeamPack-store.png",
+                        "TopDownUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/AllegianceTeamPack/AllegianceTeamPack-top.png",
+                        "CreditPrice": 0,
+                        "MarketplaceProductId": "3895c098-f811-47df-834f-f657cfa128ad",
+                        "DisplayPrice": null,
+                        "DisplayCurrency": null,
+                        "PriceTagName": "1 Pack",
+                        "PurchaseButtonText": "Allegiance Supporter",
+                        "Preview": null,
+                        "MarketPlaceLink": "https://www.microsoft.com/en-us/store/p/allegiance-team/9NLJS31HR1BH",
+                        "TopperIndex": "",
+                        "CreditPurchaseLink": "/en-us/cards/api/Store/Pack/AllegianceTeamPack"
+                    }
+                ],
+                "Name": "AllegianceTeamPack",
+                "StoreTab": "esports",
+                "TopperIndex": "",
+                "BadgeName": null,
+                "DisplayName": "Allegiance Supporter",
+                "Description": "Support Allegiance and Gears eSports with this exclusive Allegiance team weapon skin. A portion of the proceeds from every pack sold will go to support Allegiance and Gears eSports.",
+                "StoreImageUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/AllegianceTeamPack/AllegianceTeamPack-store.png",
+                "TopDownUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/AllegianceTeamPack/AllegianceTeamPack-top.png",
+                "StoreBadges": null,
+                "Preview": null,
+                "TabIndex": null
+            },
+            {
+                "Items": [
+                    {
+                        "Category": "Pack",
+                        "Id": "a10a1ec3-42b7-4f38-be12-3b3d318f439c",
+                        "DisplayName": "Echo Fox Supporter",
+                        "StoreTab": null,
+                        "StoreBadges": null,
+                        "Name": "EchoFoxTeamPack",
+                        "Description": "Support Echo Fox and Gears eSports with this exclusive Echo Fox team weapon skin. A portion of the proceeds from every pack sold will go to support Echo Fox and Gears eSports.",
+                        "StoreImageUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/EchoFoxTeamPack/EchoFoxTeamPack-store.png",
+                        "TopDownUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/EchoFoxTeamPack/EchoFoxTeamPack-top.png",
+                        "CreditPrice": 0,
+                        "MarketplaceProductId": "0aef994d-325d-4a9a-8efb-39a786e5b2f2",
+                        "DisplayPrice": null,
+                        "DisplayCurrency": null,
+                        "PriceTagName": "1 Pack",
+                        "PurchaseButtonText": "Echo Fox Supporter",
+                        "Preview": null,
+                        "MarketPlaceLink": "https://www.microsoft.com/en-us/store/p/echo-fox-team/9PP03PJ7RXN0",
+                        "TopperIndex": "",
+                        "CreditPurchaseLink": "/en-us/cards/api/Store/Pack/EchoFoxTeamPack"
+                    }
+                ],
+                "Name": "EchoFoxTeamPack",
+                "StoreTab": "esports",
+                "TopperIndex": "",
+                "BadgeName": null,
+                "DisplayName": "Echo Fox Supporter",
+                "Description": "Support Echo Fox and Gears eSports with this exclusive Echo Fox team weapon skin. A portion of the proceeds from every pack sold will go to support Echo Fox and Gears eSports.",
+                "StoreImageUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/EchoFoxTeamPack/EchoFoxTeamPack-store.png",
+                "TopDownUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/EchoFoxTeamPack/EchoFoxTeamPack-top.png",
+                "StoreBadges": null,
+                "Preview": null,
+                "TabIndex": null
+            },
+            {
+                "Items": [
+                    {
+                        "Category": "Pack",
+                        "Id": "4ff66fdc-6964-4542-9c32-acb2a2da1863",
+                        "DisplayName": "Weapon Collector 2",
+                        "StoreTab": null,
+                        "StoreBadges": null,
+                        "Name": "WeaponsPack2",
+                        "Description": "Contain 1 animated and 4 static weapon skin sets, with a chance at early access to the Locust Grenadier Elite!",
+                        "StoreImageUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/WeaponsPack2/WeaponsPack2-store.png",
+                        "TopDownUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/WeaponsPack2/WeaponsPack2-top.png",
+                        "CreditPrice": 0,
+                        "MarketplaceProductId": "8026b1e0-5732-4354-9878-4c7817fa4404",
+                        "DisplayPrice": null,
+                        "DisplayCurrency": null,
+                        "PriceTagName": "1 Pack",
+                        "PurchaseButtonText": "Single Pack",
+                        "Preview": null,
+                        "MarketPlaceLink": "https://www.microsoft.com/en-us/store/p/weapons-pack-2/9NJ728ZT0T4Q",
+                        "TopperIndex": "",
+                        "CreditPurchaseLink": "/en-us/cards/api/Store/Pack/WeaponsPack2"
+                    },
+                    {
+                        "Category": "Bundle",
+                        "Id": "b27feb78-10b3-4666-a412-0c9eb4b991d8",
+                        "DisplayName": "Weapon Collector 2",
+                        "StoreTab": "featured",
+                        "StoreBadges": null,
+                        "Name": "WeaponsPackTwo5x",
+                        "Description": "Includes 5 Weapons Collector 2 packs! Contain 1 animated and 5 static weapon skin sets, with a chance at early access to the Locust Grenadier Elite!",
+                        "StoreImageUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/WeaponsPackTwo5x/WeaponsPackTwo5x-store.png",
+                        "TopDownUrl": null,
+                        "CreditPrice": 0,
+                        "MarketplaceProductId": "a02adecc-3bde-4096-ae17-6a03438cf01c",
+                        "DisplayPrice": null,
+                        "DisplayCurrency": null,
+                        "PriceTagName": "5 Packs",
+                        "PurchaseButtonText": "Stack (5 Packs)",
+                        "Preview": null,
+                        "MarketPlaceLink": "https://www.microsoft.com/en-us/store/p/weapons-pack-2-x5/9MXDB46KJTZD",
+                        "TopperIndex": null,
+                        "CreditPurchaseLink": "/en-us/cards/api/Store/Bundle/WeaponsPackTwo5x"
+                    }
+                ],
+                "Name": "WeaponsPack2",
+                "StoreTab": "featured",
+                "TopperIndex": "",
+                "BadgeName": null,
+                "DisplayName": "Weapon Collector 2",
+                "Description": "Contain 1 animated and 4 static weapon skin sets, with a chance at early access to the Locust Grenadier Elite!",
+                "StoreImageUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/WeaponsPack2/WeaponsPack2-store.png",
+                "TopDownUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/WeaponsPack2/WeaponsPack2-top.png",
+                "StoreBadges": null,
+                "Preview": [
+                    {
+                        "Name": "test name",
+                        "DisplayText": {
+                            "OverlayTitle": "Weapon Collector 2",
+                            "Title": "Weapon Collector 2",
+                            "Body": "Stand out on the battlefield with eye-catching weapon skins! \n\nWeapon Collector 2 features five Weapon Skin sets to collect, including the animated color packed Rainbow Dust weapon skin!\n\nThis Pack also contains a bonus opportunity to find the Locust Grenadier Elite early!\n\nWEAPON SKINS\nRainbow Dust (Animated)\nDisco Ball\nBlack Marble\nMarble\nCopper\n\nBONUS CHANCE TO FIND\nLocust Grenadier Elite",
+                            "Signature": "The Coalition",
+                            "ActionLabel": ""
+                        },
+                        "ImageUrl": "http://compass.xboxlive.com/assets/db/34/db348deb-592a-4b27-8d59-97d7c371cc42.jpg?n=PackPreview_weapons_collector_2_1.jpg",
+                        "AlwaysShow": true,
+                        "PostedTime": "2016-10-25 15:22:24Z",
+                        "Priority": 1,
+                        "ActionUri": ""
+                    }
+                ],
+                "TabIndex": null
             },
             {
                 "Items": [
@@ -569,18 +851,21 @@
                         "PurchaseButtonText": "Starter Airdrop (17 Packs)",
                         "Preview": null,
                         "MarketPlaceLink": "https://www.microsoft.com/en-us/store/p/starter-airdrop/9NBLGGH511J4",
+                        "TopperIndex": null,
                         "CreditPurchaseLink": "/en-us/cards/api/Store/Bundle/AirdropStarter"
                     }
                 ],
                 "Name": "AirdropStarter",
                 "StoreTab": "core",
+                "TopperIndex": null,
                 "BadgeName": null,
                 "DisplayName": "Starter Airdrop",
                 "Description": "Kickstart your multiplayer with this bundle containing 2 Elite Packs, 5 Operations Packs, 5 Versus Boosters and 5 Horde Boosters.",
                 "StoreImageUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/AirdropStarter/AirdropStarter-store.png",
                 "TopDownUrl": null,
                 "StoreBadges": null,
-                "Preview": null
+                "Preview": null,
+                "TabIndex": null
             },
             {
                 "Items": [
@@ -602,18 +887,57 @@
                         "PurchaseButtonText": "Deluxe Airdrop (40 Packs)",
                         "Preview": null,
                         "MarketPlaceLink": "https://www.microsoft.com/en-us/store/p/deluxe-airdrop/9NBLGGH4T9B5",
+                        "TopperIndex": null,
                         "CreditPurchaseLink": "/en-us/cards/api/Store/Bundle/AirdropDeluxe"
                     }
                 ],
                 "Name": "AirdropDeluxe",
                 "StoreTab": "core",
+                "TopperIndex": null,
                 "BadgeName": null,
                 "DisplayName": "Deluxe Airdrop",
                 "Description": "Discount! 40 Gear Packs! 10 Operations Packs, 10 Elite Packs, 10 Versus Boosters and 10 Horde Boosters included in this giant bundle.",
                 "StoreImageUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/AirdropDeluxe/AirdropDeluxe-store.png",
                 "TopDownUrl": null,
                 "StoreBadges": null,
-                "Preview": null
+                "Preview": null,
+                "TabIndex": null
+            },
+            {
+                "Items": [
+                    {
+                        "Category": "Bundle",
+                        "Id": "f79808f0-321b-47d0-b2f4-562cca571a65",
+                        "DisplayName": "Run The Jewels Airdrop",
+                        "StoreTab": "core",
+                        "StoreBadges": null,
+                        "Name": "AirdropRunTheJewels",
+                        "Description": "4 Run The Jewels Packs that give you every Run The Jewels card in the game. Get all the characters, bounties, emblems and weapons skins!",
+                        "StoreImageUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/AirdropRunTheJewels/AirdropRunTheJewels-store.png",
+                        "TopDownUrl": null,
+                        "CreditPrice": 0,
+                        "MarketplaceProductId": "345398bd-2d91-43f7-b22b-206434657cd9",
+                        "DisplayPrice": null,
+                        "DisplayCurrency": null,
+                        "PriceTagName": "1 Run The Jewels Airdrop",
+                        "PurchaseButtonText": "Run The Jewels Airdrop (4 Packs)",
+                        "Preview": null,
+                        "MarketPlaceLink": "https://www.microsoft.com/en-us/store/p/run-the-jewels-airdrop/9nblggh4swh0",
+                        "TopperIndex": null,
+                        "CreditPurchaseLink": "/en-us/cards/api/Store/Bundle/AirdropRunTheJewels"
+                    }
+                ],
+                "Name": "AirdropRunTheJewels",
+                "StoreTab": "core",
+                "TopperIndex": null,
+                "BadgeName": null,
+                "DisplayName": "Run The Jewels Airdrop",
+                "Description": "4 Run The Jewels Packs that give you every Run The Jewels card in the game. Get all the characters, bounties, emblems and weapons skins!",
+                "StoreImageUrl": "https://cdn.gearsofwar.com/gearpacks/packs/images/AirdropRunTheJewels/AirdropRunTheJewels-store.png",
+                "TopDownUrl": null,
+                "StoreBadges": null,
+                "Preview": null,
+                "TabIndex": null
             }
         ]
     },
