@@ -1,4 +1,4 @@
-# gears4_cardspage_scraper
+# Gears4 Cards Page Scraper
 
 ### Scrapes [gearsofwar.com](https://gearsofwar.com/en-us/cards) for any upcoming cards data, new characters & packs.
 
